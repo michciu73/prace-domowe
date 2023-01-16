@@ -1,5 +1,5 @@
 from math import pi
-class wszst:
+class bryly:
  
 
     def __init__(self,a,b,c,r,h,pp,pb):
